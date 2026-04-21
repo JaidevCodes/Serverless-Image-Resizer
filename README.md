@@ -21,8 +21,7 @@ When a user uploads an image, it is automatically resized and stored in a separa
 ## 🧱 Architecture
 
 ```
-
-![Architecture](architecture.png)
+![Architecture Diagram](architecture.png)
 ```
 
 ---
