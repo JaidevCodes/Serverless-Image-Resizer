@@ -49,6 +49,25 @@ When a user uploads an image, it is automatically resized and stored in a separa
 
 ---
 
+## ⚙️ Setup Instructions
+
+### 1. Create S3 Buckets
+- Input bucket
+- Output bucket
+
+### 2. Create Lambda Function
+- Runtime: Python 3.10
+- Add IAM Role with S3 access
+
+### 3. Add Pillow Layer
+(CloudShell method)
+
+### 4. Configure S3 Trigger
+
+### 5. Setup CloudFront
+- Origin: Output bucket
+- Enable OAC
+
 # 🧩 Why We Use a Lambda Layer (Pillow)
 
 AWS Lambda provides a **minimal runtime environment** and does **not include image processing libraries** like Pillow by default.
