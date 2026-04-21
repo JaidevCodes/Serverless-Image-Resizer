@@ -22,7 +22,7 @@ When a user uploads an image, it is automatically resized and stored in a separa
 
 ```
 
-![Architecture]("architecture.png")
+![Architecture](architecture.png)
 ```
 
 ---
