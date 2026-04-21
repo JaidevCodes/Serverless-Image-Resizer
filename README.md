@@ -20,18 +20,9 @@ When a user uploads an image, it is automatically resized and stored in a separa
 
 ## 🧱 Architecture
 
-```text
-User Upload
-    ↓
-S3 Input Bucket
-    ↓ (Trigger)
-AWS Lambda (Image Processing using Pillow)
-    ↓
-S3 Output Bucket
-    ↓
-CloudFront (CDN)
-    ↓
-User Access (Fast Global Delivery)
+```
+
+![Architecture]("D:\Downloads\ChatGPT Image Apr 21, 2026, 03_43_01 PM.png")
 ```
 
 ---
