@@ -20,7 +20,7 @@ When a user uploads an image, it is automatically resized and stored in a separa
 
 ## 🧱 Architecture
 
-```
+```markdown
 ![Architecture Diagram](architecture.png)
 ```
 
