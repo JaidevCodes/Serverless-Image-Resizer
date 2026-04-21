@@ -22,7 +22,7 @@ When a user uploads an image, it is automatically resized and stored in a separa
 
 ```
 
-![Architecture]("D:\Downloads\ChatGPT Image Apr 21, 2026, 03_43_01 PM.png")
+![Architecture]("architecture.png")
 ```
 
 ---
