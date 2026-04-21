@@ -238,8 +238,3 @@ B.Tech CSE | Cloud Computing Enthusiast | Cloud Engineering | DevOps
 
 ---
 
-## ⭐ If you found this useful
-
-Give this project a ⭐ on GitHub and share it!
-
-
